@@ -1,6 +1,6 @@
 # Carpool Solution (MoveInSync Case Study)
 
-Demo Video: https://drive.google.com/file/d/13YDKECdNEe0fH4fEGGdNJx1LkGzssPjr/view?usp=sharing
+**Demo Video:** https://drive.google.com/file/d/13YDKECdNEe0fH4fEGGdNJx1LkGzssPjr/view?usp=sharing
 
 ## Overview
 
