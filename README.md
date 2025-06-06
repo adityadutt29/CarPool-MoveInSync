@@ -1,5 +1,7 @@
 # Carpool Solution (MoveInSync Case Study)
 
+Demo Video: https://drive.google.com/file/d/13YDKECdNEe0fH4fEGGdNJx1LkGzssPjr/view?usp=sharing
+
 ## Overview
 
 This project is a comprehensive carpooling solution for the case study based on Car Pooling System solution. It connects drivers and riders within an organization, offering features for ride creation, search, management, and real-time updates. The solution is built with a modern MERN stack (MongoDB, Express.js, React, Node.js) and emphasizes robust authentication, efficient ride matching, and a user-friendly interface.
