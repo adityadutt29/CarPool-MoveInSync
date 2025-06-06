@@ -97,12 +97,13 @@ To get the Carpool Solution running locally, follow these steps:
 3.  Create a `.env` file in the `backend` directory with the following content. Replace placeholders with your actual values:
     ```
     PORT=5000
-    MONGODB_URI=mongodb://localhost:27017/carpooldb
-    JWT_SECRET=your_jwt_secret_key
-    EMAIL_HOST=smtp.example.com
-    EMAIL_PORT=587
-    EMAIL_USER=your_email@example.com
-    EMAIL_PASS=your_email_password
+    MONGO_URI=mongodb://localhost:27017/moveinsync
+    JWT_SECRET=MoveInSyncSecretKey
+    SMTP_HOST=smtp.gmail.com
+    SMTP_PORT=465
+    SMTP_USER=yourmail@gmail.com
+    SMTP_PASS=you_app_password
+    FROM_EMAIL="MoveInSync" <yourmail@gmail.com>
     ```
     Ensure MongoDB is running locally (`mongod --dbpath <your_db_path>`) or update `MONGODB_URI` accordingly.
 4.  Start the backend server:
